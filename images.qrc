@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>vertexImage.png</file>
+        <file>LineImage.png</file>
+        <file>cursor_arrow.png</file>
+        <file>closeButton.png</file>
+        <file>arrow_left_for_line.png</file>
+        <file>arrow_left_for_clicked_line.png</file>
+        <file>arrow_border_left_for_clicked_line.png</file>
+    </qresource>
+</RCC>
